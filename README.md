@@ -9,13 +9,13 @@
  ```
 
  To Open Code server in browser
-  
+ ```
  http://<localhost or public-ip>:8025
-
- To Open Workspace 
-
+```
+To Open Workspace 
+```
 http://<localhost or public-ip>:8020
-
+```
 ## Other included Tools with UI
 
 * **Terminal** - secure browser-based terminal.
